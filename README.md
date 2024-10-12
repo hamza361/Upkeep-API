@@ -2,7 +2,7 @@
 1.	Unzip the zip folder and open the folder with any editor. I am using VS code after that write command npm install in the terminal and hit enter.
  
 
-2.	You must input your username and email as shown below:
+2.	You must input your username and email(Upkeep Business Account) at 116 and 117 lines
 
  
 
